@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:examen_reposicion="clr-namespace:examen_reposicion"
+            x:Class="examen_reposicion.MainPage"
+            NavigationPage.HasNavigationBar="false"
+            SelectedTabColor="White"
+            UnselectedTabColor="Azure"
+            >
+
+    <examen_reposicion:CreateSite Title="Nueva ubicacion" IconImageSource="about"></examen_reposicion:CreateSite>
+    <examen_reposicion:SitesList Title="Lista de ubicaciones"></examen_reposicion:SitesList>
+</TabbedPage>

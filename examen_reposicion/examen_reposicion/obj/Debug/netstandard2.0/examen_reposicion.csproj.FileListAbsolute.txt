@@ -1,0 +1,17 @@
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\bin\Debug\netstandard2.0\examen_reposicion.deps.json
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\bin\Debug\netstandard2.0\examen_reposicion.dll
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\bin\Debug\netstandard2.0\ref\examen_reposicion.dll
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\bin\Debug\netstandard2.0\examen_reposicion.pdb
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.csproj.AssemblyReference.cache
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\CreateSite.xaml.g.cs
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\SitesList.xaml.g.cs
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.AssemblyInfoInputs.cache
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.AssemblyInfo.cs
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.csproj.CoreCompileInputs.cache
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.dll
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\refint\examen_reposicion.dll
+C:\Users\Jairo Perdomo\source\repos\examen_reposicion\examen_reposicion\examen_reposicion\obj\Debug\netstandard2.0\examen_reposicion.pdb
